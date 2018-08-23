@@ -1,0 +1,29 @@
+/* add your CSS here */
+body {
+    width: 330px;
+    box-shadow: 7px 7px lightgrey;
+}
+
+.container_item {
+    width: 300px;
+    margin: 15px;
+}
+
+.individual_item {
+    width: 280px;
+    padding: 10px;
+    margin: 2px;
+}
+
+.border_style {
+    border: 1px solid lightgrey;
+}
+span {
+    font-weight: bold;
+}
+li {
+    list-style-type: none;
+}
+#fact {
+    font-style: italic;
+}
